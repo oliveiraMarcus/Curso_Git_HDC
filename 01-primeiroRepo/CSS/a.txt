@@ -1,1 +1,0 @@
-testando uma atualização de arquivo diretamente dentro do GitHub
