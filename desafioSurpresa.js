@@ -25,7 +25,7 @@ for (let i = 0; i < 7; i++) {
 
  console.log("\n")
  
- // Criando uma variável para aparecer todos os dados dos pokemons
+ // Criando uma condicional para aparecer todos os dados dos pokemons
 for (let i = 0; i < 7; i++) {
    
     console.log(pokemons[i], levelPokemons[i], sexoPokemons[i], vidaPokemons[i],)
